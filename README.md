@@ -19,4 +19,4 @@ This project applies the **K-Means clustering** algorithm to segment customers b
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone [your-repo-link]
+   git clone [https://github.com/AbdalrahmanElshafei/kmeans-customer-segmentation.git]
